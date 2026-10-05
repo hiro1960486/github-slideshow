@@ -2,3 +2,9 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+
+# Local dependencies and logs
+node_modules/
+*.log
+記録/
+保管/
